@@ -34,11 +34,6 @@ This is Part 2 of my Cloud Resume CI/CD journey. In this phase, I implemented:
 - Future enhancement: add Lambda@Edge for logging or headers
 
 
-📸 Screenshots
-
-_You can drag and drop screenshots here in GitHub after uploading._
-
-
 What I Learned
 
 - How CDN caching works with S3 + CloudFront
