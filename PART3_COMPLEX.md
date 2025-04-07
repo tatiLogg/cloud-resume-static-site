@@ -16,6 +16,9 @@ This final phase introduced real-world production safeguards and automation feat
 ### 🖼️ Screenshot  
 ![CI/CD Complex Phase](./assets/cicd-complex-screenshot.png)
 
+![CI/CD Complex Phase](./assets/cicd-complex-screenshot.png)
+
+
 ### 💡 Key Lessons
 
 - Correctly linking CloudFront to a private S3 bucket requires OAC + updated bucket policy  
