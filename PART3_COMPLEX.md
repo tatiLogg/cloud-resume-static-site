@@ -1,8 +1,8 @@
-## 🚀 CI/CD Static Website Project – Part 3: Complex Phase
+🚀 CI/CD Static Website Project – Part 3: Complex Phase
 
 This final phase introduced real-world production safeguards and automation features.
 
-### 🔧 Features Implemented
+🔧 Features Implemented
 
 - ✅ Created an Origin Access Control (OAC) to restrict S3 access to CloudFront only  
 - ✅ Resolved Access Denied errors by updating the S3 bucket policy  
@@ -10,23 +10,22 @@ This final phase introduced real-world production safeguards and automation feat
 - ✅ Updated bucket content to show successful deploy after approval  
 - ✅ Verified the deployment via CloudFront  
 
-### 🌍 Live URL  
-**https://d1zllftq6xl906.cloudfront.net**
+🌍 Live URL  
+https://d1zllftq6xl906.cloudfront.net
 
-### 🖼️ Screenshot  
+🖼️
 ![CI/CD Complex Phase](./assets/cicd-complex-screenshot.png)
 
 
 
-### 💡 Key Lessons
+💡 Key Lessons
 
 - Correctly linking CloudFront to a private S3 bucket requires OAC + updated bucket policy  
 - Manual approvals can help protect against accidental changes in production  
 - Public access must be off when OAC is enabled
 
----
 
-### 🔜 Coming Soon
+🔜 Coming Soon
 
 - Contact form (serverless)  
 - Page view counter with DynamoDB  
