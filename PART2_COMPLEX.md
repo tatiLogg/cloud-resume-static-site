@@ -10,7 +10,10 @@ This is Part 2 of my Cloud Resume CI/CD journey. In this phase, I implemented:
 
 🚀 Live CloudFront URL
 
-🌍 ![CloudFront Resume Screenshot](./screenshot-part2.png)
+📸 Final Preview
+
+![Screenshot](./screenshot-part2.png)
+
 
 
 🛠️ What I Did
