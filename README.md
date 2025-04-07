@@ -46,3 +46,43 @@ Hosted via S3 Static Website Hosting and deployed via CodePipeline.
 ## 📄 File Structure
 
 
+---
+
+## 📸 Final Preview
+
+![Screenshot](./screenshot.png)
+
+---
+
+## 🐛 Challenges Overcome
+
+- **403 Access Denied**: Solved via bucket policy + public access settings  
+- **Emoji rendering issues**: Fixed by adding UTF-8 meta tag  
+- **HTML displaying as plain text**: Resolved by saving in plain text format via nano  
+- **GitHub push errors**: Fixed with `git pull origin main --rebase`
+
+---
+
+## 📌 Next Phase (Advanced)
+
+- Add manual approval stage in CodePipeline
+- Integrate AWS CloudFront for performance and global delivery
+
+---
+
+## 🧠 Lessons Learned
+
+This project helped me sharpen real-world cloud skills and build confidence in deploying live applications from scratch. It showed me that **automation + creativity = power**.
+
+---
+
+## 👋🏽 About Me
+
+I’m **Selina Loggins**, a cloud engineering student and passionate builder in tech.  
+Let’s connect on [LinkedIn](https://www.linkedin.com/in/selinaloggins)!
+
+---
+
+
+
+
